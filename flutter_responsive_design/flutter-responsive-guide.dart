@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class ResponsiveExample extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // Get device dimensions
+    // Get device dimensions ---
     final screenSize = MediaQuery.of(context).size;
     final screenWidth = screenSize.width;
     final screenHeight = screenSize.height;
