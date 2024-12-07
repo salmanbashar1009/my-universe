@@ -5,4 +5,4 @@
 # Doc3. Flutter Animation Tutorial with Example
 # Doc3. Flutter Animation Tutorial with Example
 
-# Doc4. A button by which a resume of other files can be download
+# Doc4. A button by which a resume or other files can be download
